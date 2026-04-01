@@ -29,7 +29,7 @@ const Navbar = () => {
             <FontAwesomeIcon icon={faArrowRightToBracket} className="md:mr-2"/>
             <span className="hidden md:block">NewChat</span>
           </button>
-          <a href="https://github.com/SritharanKalimuthu" target="__blank" className="flex items-center bg-black p-3 md:px-5 md:py-2 rounded-sm font-semibold border border-stone-700 text-xs hover:bg-stone-900 cursor-pointer">
+          <a href="https://github.com/sreekrishnah" target="__blank" className="flex items-center bg-black p-3 md:px-5 md:py-2 rounded-sm font-semibold border border-stone-700 text-xs hover:bg-stone-900 cursor-pointer">
             <FontAwesomeIcon icon={faGithub} className="md:mr-2"/>
             <span className="hidden md:block">GitHub</span>
           </a>
